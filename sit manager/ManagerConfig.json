@@ -1,0 +1,17 @@
+{
+  "LastServer": "http://127.0.0.1:6969",
+  "Username": null,
+  "Password": null,
+  "InstallPath": "C:\\Users\\thewi\\OneDrive\\Desktop\\SIT GAME",
+  "AkiServerPath": null,
+  "RememberLogin": false,
+  "CloseAfterLaunch": false,
+  "TarkovVersion": "0.14.1.2.29197",
+  "SitVersion": null,
+  "LookForUpdates": true,
+  "AcceptedModsDisclaimer": false,
+  "ModCollectionVersion": null,
+  "InstalledMods": {},
+  "ConsoleFontColor": "#FFADD8E6",
+  "ConsoleFontFamily": "Consolas"
+}
